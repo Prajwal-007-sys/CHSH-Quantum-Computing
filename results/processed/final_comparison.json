@@ -1,0 +1,14 @@
+{
+    "chsh_parameter": {
+        "classical_bound": 2,
+        "simulation": 2.806,
+        "hardware": 2.6959999999999997,
+        "ideal_quantum": 2.8284271247461903
+    },
+    "winning_probability": {
+        "classical_limit": 0.75,
+        "simulation": 0.85075,
+        "hardware": 0.837,
+        "ideal_quantum": 0.8535533905932737
+    }
+}

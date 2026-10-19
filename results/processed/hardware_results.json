@@ -1,0 +1,10 @@
+{
+    "correlations": {
+        "E00": 0.628,
+        "E01": 0.712,
+        "E10": 0.668,
+        "E11": -0.688
+    },
+    "chsh_parameter": 2.6959999999999997,
+    "winning_probability": 0.837
+}
